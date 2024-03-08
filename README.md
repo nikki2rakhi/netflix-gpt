@@ -32,6 +32,9 @@
 - installed react player for trailer and make it autoplay and muted
 - give mute funcationality using useState
 - tailwind classes to make MainContainer look awesome
+- build movie card and list and displayed in secondary container
+- build custom hooks for fetching movies lists data
+- made the browse page amazing with tailwind css
 
 # Featured
 
