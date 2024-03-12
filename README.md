@@ -35,6 +35,8 @@
 - build movie card and list and displayed in secondary container
 - build custom hooks for fetching movies lists data
 - made the browse page amazing with tailwind css
+- Gpt search page
+- Gpt search bar with mlti language feature
 
 # Featured
 
